@@ -36,7 +36,7 @@ This Python script is designed to extract links from multiple webpage directorie
 
 ## Author
 Github: bsakyi
-Linkedin: www.linkedin.com/in/benjamin-a-sakyi-111b0319a
+Linkedin: www.linkedin.com/in/benjamin-a-sakyi-111b0319a </br>
 Telegram: t.me/bsakyi  
 
 

@@ -35,7 +35,7 @@ This Python script is designed to extract links from multiple webpage directorie
 - Ensure that your AWS IAM user has the necessary permissions to interact with the specified S3 bucket.
 
 ## Author
-Github: bsakyi
+Github: bsakyi </br>
 Linkedin: www.linkedin.com/in/benjamin-a-sakyi-111b0319a </br>
 Telegram: t.me/bsakyi  
 
